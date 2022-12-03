@@ -1,0 +1,28 @@
+.navbar a, li {
+    background-color: rgba(0, 0, 0, 0);
+    color: #fd1d1d;
+}
+
+.dropdown-menu {
+    background-color: rgb(33,37,41);
+}
+
+.logo {
+    width: 40px;
+}
+
+
+
+.gradient-text {
+    font-size: 23px;
+    font-family: 'Pacifico', sans-serif;
+    font-weight: bold;
+    background: linear-gradient(66deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.nav-link::after {
+    background-color: rgba(0, 0, 0, 0);
+    color: #d8350d;
+}
